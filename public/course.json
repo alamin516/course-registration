@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "thumbnail": "https://i.ibb.co/nnxmrqT/Rectangle-2.png",
+      "title": "Introduction to C Programming",
+      "price": "$199",
+      "creditsInHours": 2,
+      "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://i.ibb.co/1qLCVq9/Rectangle-2-1.png",
+      "title": "Introduction to Algorithms",
+      "price": "$99",
+      "creditsInHours": 3,
+      "descriptions": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://i.ibb.co/C1RC9G4/Rectangle-2-2.png",
+      "title": "Introduction to C++ for DSA",
+      "price": "$1000",
+      "creditsInHours": 1.5,
+      "descriptions": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://i.ibb.co/g9SCKNB/Rectangle-2-3.png",
+      "title": "Basic Data Structures",
+      "price": "$150",
+      "creditsInHours": 4,
+      "descriptions": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore."
+    },
+    {
+      "id": 5,
+      "thumbnail": "https://i.ibb.co/M2QwYBf/Rectangle-2-4.png",
+      "title": "Introduction to OOP Python",
+      "price": "$400",
+      "creditsInHours": 1,
+      "descriptions": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt."
+    },
+    {
+      "id": 6,
+      "thumbnail": "https://i.ibb.co/1M9sFgY/Rectangle-2-5.png",
+      "title": "Software Engineering",
+      "price": "$500",
+      "creditsInHours": 5,
+      "descriptions": "Aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla."
+    },
+    {
+      "id": 7,
+      "thumbnail": "https://i.ibb.co/JBZYtBN/Rectangle-2-6.png",
+      "title": "AWS, Cloud Computing",
+      "price": "$59",
+      "creditsInHours": 2.5,
+      "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 8,
+      "thumbnail": "https://i.ibb.co/8BnzkW5/Rectangle-3.png",
+      "title": "Database (MySQL)",
+      "price": "$150",
+      "creditsInHours": 3.5,
+      "descriptions": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    {
+      "id": 9,
+      "thumbnail": "https://i.ibb.co/sm3pZKG/Rectangle-3-1.png",
+      "title": "Problem-Solving Part",
+      "price": "$100",
+      "creditsInHours": 5.5,
+      "descriptions": "Sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ]
+
+
+
+
+
+
